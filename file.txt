@@ -2,4 +2,6 @@ first file!!!!
 second line
 
 
+conflict!!!!!!
+
 I'm the master!!!!!!
