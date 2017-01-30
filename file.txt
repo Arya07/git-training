@@ -1,6 +1,7 @@
 first file!!!!
 second line
 
+something new
 
 conflict!!!!!!
 
